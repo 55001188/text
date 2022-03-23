@@ -129,11 +129,7 @@ public class Runner {
 			
 			System.out.println(sentence);
 
-			//String str = "...Welcome???@@##$ to#$% Geeks%$^for$%^&Geek's";
-
-	        // similar to Matcher.replaceAll
-	        //str = str.replaceAll("\\p{Punct}","");
-	        //System.out.println(str);
+			
 			//System.out.println(str.replaceFirst("^[^a-zA-Z]+", "")); // ^ means !=
 		    //System.out.println(str.replaceAll("[^a-zA-Z]+$", "")); //$ means at the end of the string
 
